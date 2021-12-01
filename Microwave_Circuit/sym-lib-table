@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RSP-122811-01)(type Legacy)(uri ${KIPRJMOD}/RSP-122811-01/RSP-122811-01.lib)(options "")(descr ""))
+  (lib (name WP7113LSRD)(type Legacy)(uri ${KIPRJMOD}/WP7113LSRD/WP7113LSRD.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RSP-122811-01)(type KiCad)(uri ${KIPRJMOD}/RSP-122811-01)(options "")(descr ""))
+  (lib (name WP7113LSRD)(type KiCad)(uri ${KIPRJMOD}/WP7113LSRD)(options "")(descr ""))
+)

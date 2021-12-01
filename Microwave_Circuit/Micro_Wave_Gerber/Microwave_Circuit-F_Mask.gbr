@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.10)-1*%
+%TF.CreationDate,2021-11-30T19:58:40-05:00*%
+%TF.ProjectId,Microwave_Circuit,4d696372-6f77-4617-9665-5f4369726375,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.10)-1) date 2021-11-30 19:58:40*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.508000*%
+%ADD11R,1.508000X1.508000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,D4*%
+X200152000Y-73914000D03*
+D11*
+X197612000Y-73914000D03*
+%TD*%
+M02*
