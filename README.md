@@ -1,2 +1,4 @@
-# Microwave_Leakage_Detector
-Circuit designed to detect the leakage from a typical microwave
+# PSU EE330 Microwave_Leakage_Detector
+RF circuit design to detect microwave leakage
+
+## Circuit Images
